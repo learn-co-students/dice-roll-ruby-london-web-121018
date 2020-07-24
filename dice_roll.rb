@@ -4,4 +4,6 @@
 
 def roll
   # code goes here
+  sum = [1,2,3,4,5,6]
+  sum[rand(0..5)]
 end
